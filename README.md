@@ -1,4 +1,4 @@
-# Change-Request-Managemen
+# Change-Request-Management
 
 # From time to time, you will be assigned tickets to make changes, such as updating the Jenkins CI/CD server in the production. 
 
